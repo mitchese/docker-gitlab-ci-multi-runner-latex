@@ -2,7 +2,7 @@
 [![Docker Repository on Quay.io](https://quay.io/repository/mitchese/docker-gitlab-ci-multi-runner-latex/status "Docker Repository on Quay.io")](https://quay.io/repository/mitchese/docker-gitlab-ci-multi-runner-latex)
 
 
-# mitchese/gitlab-ci-multi-runner-latex:1.1.4-7
+# mitchese/gitlab-ci-multi-runner-latex:10.0.2
 
 - [Introduction](#introduction)
   - [Contributing](#contributing)
